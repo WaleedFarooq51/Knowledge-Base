@@ -15,11 +15,11 @@ This repository contains an intelligent, document-driven **Knowledge Base system
 
 ## 🧠 Technologies Used
 
-LangChain
+- LangChain
 
-OpenAI GPT-3.5
+- OpenAI GPT-3.5
 
-ChromaDB
+- ChromaDB
 
 ## 🧪 How to Use
 
