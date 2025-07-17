@@ -16,18 +16,20 @@ This repository contains an intelligent, document-driven **Knowledge Base system
 ## 🧠 Technologies Used
 
 LangChain
+
 OpenAI GPT-3.5
+
 ChromaDB
 
 ## 🧪 How to Use
 
 ```bash
-git clone https://github.com/WaleedFarooq51/Knowledge-Base.git
-cd Knowledge-Base
+- git clone https://github.com/WaleedFarooq51/Knowledge-Base.git
+- cd Knowledge-Base
 
 # Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
-- Set your OpenAI API key and Chroma DB Directory path in .env file
+- Set your OpenAI API key and Chroma DB Directory path in the .env file
 
-- Run the python script
+- Run the Python script
